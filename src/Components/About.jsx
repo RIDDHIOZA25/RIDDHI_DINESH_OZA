@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Computer science student at Fr. Conceicao Rodrigues College of Engineering with expertise in programming, data structures, algorithms, and cloud computing, complemented by certifications in Python, Pandas, and Numpy from Great Learning; published researcher in international journals on the internet's impact on the matrimony industry; experienced in developing full-stack web applications, conducting machine learning research at IIT Patna, and engaging in community management, mentoring, and campus ambassador roles, driven by a passion for programming and machine learning with a commitment to creating innovative solutions for societal and environmental benefit.";
 
 const About = () => {
   return (

@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Paws for Cause",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A platform facilitating animal welfare by enabling individuals to upload pictures of injured or abandoned animals, connecting them with the nearest registered NGO for assistance, and providing transportation services to save lives with a click.",
+    url: "https://github.com/RIDDHIOZA25",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Fake Profile Detection on Matrimonial Sites",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Utilized machine learning to detect and eliminate fake profiles on matrimonial sites by analyzing inconsistencies in profile information, comparing Random Forest, SVM, and ANN models, with Random Forest achieving 98.968% accuracy.",
+    url: "https://github.com/RIDDHIOZA25",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A comprehensive showcase of my professional journey, highlighting my expertise in computer science, including projects in web development, machine learning, and document processing, alongside certifications and published research, demonstrating a passion for innovation and societal impact.",
+    url: "https://riddhidineshoza.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Safe Taste Tracker",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Blockchain solution enhancing food safety regulation, streamlining data collection, testing, and reporting for transparency and brand accountability, leveraging ReactJs, Tailwindcss, Ethereum, IPFS, Pinata, Remix IDE, and Solidity.",
+    url: "https://lnkd.in/gE3dDu9z",
   },
 ];
 
